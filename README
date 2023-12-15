@@ -1,0 +1,28 @@
+# Social Justive Festival Project 3
+by Gabriel Roca
+
+
+# Project Overview
+Smile Online partners with The Cyber Smile Foundation in addressing and combating the issue of cyberbullying, particularly, within the youth who are most vulnerable to online hate and harassment. This organization is dedicated to fight against the problem and providing a safe and supportive outlet for teenagers navigating the challenges of the digital world. Recognizing the growing impact of online harassment on adolescents, this organization strives to create a positive and empowering online environment for everyone to simply enjoy. This project focuses on raising awareness, providing resources, and building a supportive community to combat cyberbullying. 
+
+With this in mind, I created a thourough website with three pages: Home Page, Events Page, and the Community Page. Additionally, creating all the visual an branding components to make the organization / festival come to lfe.
+
+In the Home Page, I provided context of the organization such as the Mission Statement and what the organization does. 
+
+Ultimately, I created a 3-Day festival for this cause with 5 events: Guest Speakers, Food For All, Scavenger Hunt, Game Night, and the Smile Online Concert. 
+
+Lastly is the Community Page which provides a space for the youth to interact and support one another. The Instagram posts are shared by the official account for SmileOnline.
+
+# Technical Overview
+
+The website is created with HTML to layour the content and was styled though the use of CSS. Furthermore, linking the pages all together to create an smooth experience for people to enjoy. 
+
+All of the visual graphics were made in Adobe Illustrator using the Pen Tool. For the wristband mockup, I used Photoshop to get the desired look I was going for.
+
+The Navigation is 'fixed' at the top of the page so when you scroll down pages, it will stay at the top. A hover effect was also added when navigating though pages as well as an orange box to indicate what page the user is currently on.
+
+The Home Page is brocken down using the 'div' tag  to organize the content.
+
+The Events Page is also organized by a container and dividing each Day accordingly. 
+
+CSS was used to style the pages such as padding, font size, color, line spacing, and alignment. 
